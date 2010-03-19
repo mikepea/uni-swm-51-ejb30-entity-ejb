@@ -1,0 +1,1 @@
+ant run -Dname="bob" -Dsal="100300" -Dempno="233"
